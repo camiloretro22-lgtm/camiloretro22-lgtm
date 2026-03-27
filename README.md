@@ -43,6 +43,57 @@ Creo firmemente en el aprendizaje continuo, la colaboración y el poder de los d
 
 ---
 
+<div align="center">
+
+# 👋 Hola, soy Andrea Morales
+### Junior Data Analyst | Python · SQL · Power BI
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Correo](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
+
+</div>
+
+---
+
+## 🙋 Sobre mí
+
+- 📊 Apasionada por convertir **datos en decisiones** con Python, SQL y visualizaciones
+- 🌱 Actualmente aprendiendo **Apache Spark** y **AWS**
+- 🎯 Buscando mi primer rol profesional como analista de datos
+- 📍 Bogotá, Colombia
+
+---
+
+## 🛠️ Stack tecnológico
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+## 📌 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [📊 ecommerce-sales-analysis](https://github.com/tu-usuario/repo) | EDA completo + dashboard de ventas | Python, Plotly |
+| [🤖 churn-prediction-model](https://github.com/tu-usuario/repo) | Clasificación con Random Forest (89% accuracy) | Scikit-learn |
+| [🗄️ sql-analytics-portfolio](https://github.com/tu-usuario/repo) | Queries avanzadas con CTEs y window functions | SQL |
+
+---
+
+## 📈 Estadísticas GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
 
 
 
