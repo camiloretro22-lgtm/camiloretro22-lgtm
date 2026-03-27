@@ -18,37 +18,8 @@ _Especialidad: Rigor forense, Limpieza de datos y Análisis Estadístico."
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Streak%20Stats&theme=transparent&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
 
-<div align="center">
 
-# 👋 Hola, soy Andrea Morales
-### Junior Data Analyst | Python · SQL · Power BI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
-[![Correo](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO_GITHUB)
-
-</div>
-
----
-
-## 🙋 Sobre mí
-
-- 📊 **Análisis de Datos:** Apasionada por transformar datos crudos en historias visuales y decisiones estratégicas.
-- 🌱 **En crecimiento:** Profundizando mis conocimientos en **Apache Spark** y arquitecturas en **AWS**.
-- 🎯 **Objetivo:** Buscando mi primera oportunidad profesional para aportar valor a través de insights accionables.
-- 📍 Bogotá, Colombia
-
----
-
-## 🛠️ Stack Tecnológico
-
-| Área | Tecnologías |
-|---|---|
-| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Librerías** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) |
-| **Visualización** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) |
-
----
 
 ## 📌 Proyectos Destacados
 
