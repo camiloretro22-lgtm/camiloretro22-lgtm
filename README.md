@@ -22,17 +22,13 @@ _Especialidad: Rigor forense, Limpieza de datos y Análisis Estadístico."
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Streak%20Stats&theme=transparent&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
 
-## 📈 Estadísticas de GitHub
+---
 
-<div align="center">
+<h1> 💡 Objetivo Personal </h1>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=camiloretro22-lgtm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+Busco seguir desarrollándome como profesional del análisis de datos, aportando soluciones basadas en evidencia, mejorando la eficiencia de los procesos y colaborando activamente en equipos multidisciplinares.
 
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloretro22-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-
-</div>
+Creo firmemente en el aprendizaje continuo, la colaboración y el poder de los datos para transformar organizaciones. 
 
 
 
