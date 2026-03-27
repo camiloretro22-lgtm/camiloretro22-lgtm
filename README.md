@@ -18,36 +18,20 @@ _Especialidad: Rigor forense, Limpieza de datos y Análisis Estadístico."
 
 ---
 
-<h1> GitHub Stats </h1>
+<h1> 📈 GitHub Stats </h1>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Streak%20Stats&theme=transparent&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
 
 
 
 
-## 📌 Proyectos Destacados
 
-> Aquí puedes ver una selección de mis trabajos más recientes:
-
-* **[📊 E-commerce Sales Analysis](https://github.com/TU_USUARIO_GITHUB/ecommerce-sales-analysis)**
-    * *Descripción:* EDA completo y dashboard interactivo de ventas anuales.
-    * *Herramientas:* Python, Pandas, Plotly.
-* **[🤖 Churn Prediction Model](https://github.com/TU_USUARIO_GITHUB/churn-prediction-model)**
-    * *Descripción:* Modelo de clasificación con Random Forest para predecir fuga de clientes (89% accuracy).
-    * *Herramientas:* Scikit-learn, Matplotlib.
-* **[🗄️ SQL Analytics Portfolio](https://github.com/TU_USUARIO_GITHUB/sql-analytics-portfolio)**
-    * *Descripción:* Resolución de casos de negocio complejos usando CTEs y Window Functions.
-    * *Herramientas:* PostgreSQL / MySQL.
-
----
 
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiloretro22-lgtm&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
