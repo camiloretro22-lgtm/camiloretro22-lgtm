@@ -28,7 +28,7 @@ _Especialidad: Rigor forense, Limpieza de datos y Análisis Estadístico."
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloretro22-lgtm&layout=compact&theme=radical)
 
-</div
+</div>
 
 
 
