@@ -18,6 +18,13 @@ _Especialidad: Rigor forense, Limpieza de datos y Análisis Estadístico."
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Streak%20Stats&theme=transparent&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
 
 
 
