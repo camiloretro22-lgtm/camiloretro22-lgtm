@@ -31,6 +31,10 @@ Busco seguir desarrollándome como profesional del análisis de datos, aportando
 Creo firmemente en el aprendizaje continuo, la colaboración y el poder de los datos para transformar organizaciones. 
 
 
+---
+
+<h1> 🛠️ Lenguajes y Herramientas </h1>
+
 
 
 
