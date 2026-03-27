@@ -1,1 +1,1 @@
-<h1> Cristian Camio Acosta Cubillos </h1>
+<h1 align="center"> Cristian Camilo Acosta Cubillos </h1>
