@@ -15,6 +15,7 @@ _Visualización: Power BI, Tableau, Matplotlib, Seaborn.
 _Especialidad: Rigor forense, Limpieza de datos y Análisis Estadístico."
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Fcamiloretro22-lgtm&theme=shadow-blue&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Streak%20Stats&theme=shadow-blue&hide_border=FALSO&short_numbers=FALSO" alt="GitHub Streak" /></a>
 
 
 
