@@ -22,15 +22,15 @@ _Especialidad: Rigor forense, Limpieza de datos y Análisis Estadístico."
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Streak%20Stats&theme=transparent&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
 
-## 📈 Estadísticas GitHub
+## 📈 Estadísticas de GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiloretro22-lgtm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=camiloretro22-lgtm&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=camiloretro22-lgtm&theme=tokyonight&hide_border=true)
+  <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloretro22-lgtm&layout=compact&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloretro22-lgtm&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 
 </div>
 
