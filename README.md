@@ -22,24 +22,19 @@ _Especialidad: Rigor forense, Limpieza de datos y Análisis Estadístico."
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Streak%20Stats&theme=transparent&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
 
-
-
-
-
-
-## 📈 Estadísticas de GitHub
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiloretro22-lgtm&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=camiloretro22-lgtm&show_icons=true&theme=radical)
 
-</div>
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloretro22-lgtm&layout=compact&theme=radical)
 
-<br />
+</div
 
-<div align="center">
-  <sub>Diseñado con ❤️ por Andrea Morales</sub>
-</div>
+
+
+
+
+
 
 
 
