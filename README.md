@@ -15,3 +15,4 @@ _Visualización: Power BI, Tableau, Matplotlib, Seaborn.
 _Especialidad: Rigor forense, Limpieza de datos y Análisis Estadístico."
 
 
+
