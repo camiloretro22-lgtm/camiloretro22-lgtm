@@ -71,6 +71,81 @@ Creo firmemente en el aprendizaje continuo, la colaboración y el poder de los d
 
 <h1> 🔬 Proyectos Destacados </h1
 
+<!-- HEADER ANIMADO -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Cristian%20Camilo%20Acosta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Forensic%20Data%20Integrity%20Specialist&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+</div>
+
+<!-- INSIGNIAS HERO -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cristian--camilo--acosta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-camilo-acosta)
+[![Gmail](https://img.shields.io/badge/Gmail-camiloretro22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camiloretro22@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Bogotá-Colombia-FFCD00?style=for-the-badge)](https://maps.app.goo.gl/Bogota)
+[![Status](https://img.shields.io/badge/🔍_Open_to-Work-00D26A?style=for-the-badge)](mailto:camiloretro22@gmail.com)
+
+</div>
+
+<br/>
+
+---
+
+<!-- SOBRE MÍ -->
+## 🧬 `$ whoami`
+
+```python
+cristian = {
+    "rol"         : "Data Analyst | Especialista en Integridad y Rigor Forense de Datos",
+    "ubicación"   : "Bogotá, Colombia 🇨🇴",
+    "background"  : ["Investigación Judicial", "Criminalística", "Dactiloscopía"],
+    "superpoder"  : "Aplicar rigor forense para garantizar la integridad del dato",
+    "aprendiendo" : ["Machine Learning", "Inglés B2", "Cloud Analytics"],
+    "disponible"  : True
+}
+```
+
+> *"Los datos nunca mienten — pero sí pueden ser mal interpretados. Mi trabajo es garantizar que eso nunca suceda."*
+
+---
+
+<!-- ARSENAL TÉCNICO -->
+## ⚙️ Arsenal Técnico
+
+<div align="center">
+
+### 🐍 Lenguajes & Análisis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📊 Librerías de Datos
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 📈 Visualización & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 🛠️ Herramientas & Entorno
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_Avanzado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+<!-- PROYECTOS DESTACADOS -->
+## 🔬 Proyectos Destacados
+
 <table>
 <tr>
 <td width="50%">
@@ -139,6 +214,89 @@ Consultas avanzadas con subconsultas, CTEs y análisis de cohortes sobre bases d
 </td>
 </tr>
 </table>
-                              
 
+---
 
+<!-- EXPERIENCIA TIMELINE -->
+## 💼 Trayectoria
+
+```
+2025 ──────────────────────────────────────────────────────────────────►
+│
+├── 🏢  RV Inmobiliaria — Analista de Datos de Cartera (Ene – Dic 2025)
+│       └─ Segmentación de deudores, KPIs de recaudo, integridad de datos
+│
+├── 🎓  TripleTen Latam — Data Analyst Practicum (Jul – Dic 2025)
+│       └─ 5+ proyectos reales: EDA, SQL, Estadística, ETL
+│
+├── 📜  Data Analyst Certificate — TripleTen Latam
+│
+└── 📚  Bootcamp de Programación — Talento Tech / UT Innova Digital
+
+2021 ──────────────────────────────────────────────────────────────────
+│
+├── 🔍  Profesional en Investigación Judicial — INICF
+│
+└── 🖐️  Diplomado en Dactiloscopía — INICF
+        └─ Base del pensamiento forense aplicado al análisis de datos
+```
+
+---
+
+<!-- ESTADÍSTICAS GITHUB -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=FF6B35&currStreakLabel=58a6ff)](https://github.com/TU_USERNAME)
+
+</div>
+
+---
+
+<!-- DIFERENCIADOR ÚNICO -->
+## 🕵️ Lo Que Me Hace Diferente
+
+<div align="center">
+
+| 🔬 Pensamiento Forense | 📊 Análisis de Datos | 🎯 Impacto Real |
+|:---:|:---:|:---:|
+| Formado en investigación criminal y dactiloscopía. Cada dato es evidencia — trazable, verificable, irrefutable. | Dominio del ciclo completo: ETL → Limpieza → EDA → Visualización → Insights accionables. | No reporto números. Resuelvo problemas de negocio con datos que sostienen decisiones. |
+
+</div>
+
+---
+
+<!-- CONTACTO CTA -->
+## 📬 Conectemos
+
+<div align="center">
+
+¿Tienes un problema de datos que resolver? ¿Buscas un analista que trate cada dataset como una escena del crimen?
+
+**Hablemos.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-camilo-acosta)
+[![Email](https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camiloretro22@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573005029110)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+*"En criminalística, un solo detalle cambia el caso. En datos, un solo insight cambia el negocio."*
+
+![Profile views](https://komarev.com/ghpvc/?username=TU_USERNAME&color=58a6ff&style=flat-square&label=Visitas+al+perfil)
+
+</div>
