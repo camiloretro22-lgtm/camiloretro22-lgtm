@@ -4,7 +4,7 @@
 
 ---
 
-<h1> Sobre mi </h1>
+<h1> 👨‍💻 Sobre mi </h1>
 
 📊 "Soy Analista de Datos con un trasfondo único en Investigación Judicial, lo que me permite abordar los datos con un nivel de detalle y rigor superior. Me especializo en transformar datos crudos en activos estratégicos, asegurando la integridad de la información en cada etapa del ciclo de vida (ETL, Limpieza y EDA).
 
