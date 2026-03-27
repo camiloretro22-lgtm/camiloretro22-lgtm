@@ -24,12 +24,11 @@ _Especialidad: Rigor forense, Limpieza de datos y Análisis Estadístico."
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=camiloretro22-lgtm&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=camiloretro22-lgtm&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloretro22-lgtm&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camiloretro22-lgtm&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
 
 
 
