@@ -156,29 +156,4 @@ Consultas avanzadas con subconsultas, CTEs y análisis de cohortes sobre bases d
 
 ---
 
-<!-- CONTACTO CTA -->
-## 📬 Conectemos
 
-<div align="center">
-
-¿Tienes un problema de datos que resolver? ¿Buscas un analista que trate cada dataset como una escena del crimen?
-
-**Hablemos.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-camilo-acosta)
-[![Email](https://img.shields.io/badge/Email-Escribir-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camiloretro22@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contactar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573005029110)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-*"En criminalística, un solo detalle cambia el caso. En datos, un solo insight cambia el negocio."*
-
-![Profile views](https://komarev.com/ghpvc/?username=TU_USERNAME&color=58a6ff&style=flat-square&label=Visitas+al+perfil)
-
-</div>
