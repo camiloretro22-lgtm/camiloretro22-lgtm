@@ -169,4 +169,22 @@ Consultas avanzadas con subconsultas, CTEs y análisis de cohortes sobre bases d
 
 ---
 
+## 🏆 Trofeos de GitHub
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TU_USUARIO_GITHUB&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📊 Gráfica de Actividad
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=tokyo-night&hide_border=true)
+
+</div>
+
 
