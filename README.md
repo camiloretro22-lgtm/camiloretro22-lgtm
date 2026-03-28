@@ -173,7 +173,7 @@ Consultas avanzadas con subconsultas, CTEs y análisis de cohortes sobre bases d
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TU_USUARIO_GITHUB&theme=tokyonight&no-frame=true&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=camiloretro22-lgtm&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -183,8 +183,6 @@ Consultas avanzadas con subconsultas, CTEs y análisis de cohortes sobre bases d
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&theme=tokyo-night&hide_border=true)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=camiloretro22-lgtm&theme=tokyo-night&hide_border=true)
 
 </div>
-
-
