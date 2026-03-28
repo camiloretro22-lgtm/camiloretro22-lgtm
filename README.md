@@ -39,6 +39,14 @@ _Especialidad: Rigor forense, Limpieza de datos y Análisis Estadístico."
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Streak%20Stats&theme=transparent&hide_border=FALSO&short_numbers=FALSO)](https://git.io/streak-stats)
 
+## 📊 Gráfica de Actividad
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=camiloretro22-lgtm&theme=tokyo-night&hide_border=true)
+
+</div>
+
 ---
 
 <h1> 💡 Objetivo Personal </h1>
@@ -179,10 +187,3 @@ Consultas avanzadas con subconsultas, CTEs y análisis de cohortes sobre bases d
 
 ---
 
-## 📊 Gráfica de Actividad
-
-<div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=camiloretro22-lgtm&theme=tokyo-night&hide_border=true)
-
-</div>
