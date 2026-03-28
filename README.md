@@ -177,13 +177,5 @@ Consultas avanzadas con subconsultas, CTEs y análisis de cohortes sobre bases d
 
 ---
 
-## 🏆 Trofeos de GitHub
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=camiloretro22-lgtm&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
 
