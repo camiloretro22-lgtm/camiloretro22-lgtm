@@ -1,7 +1,7 @@
 <!-- HEADER ANIMADO -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Cristian%20Camilo%20Acosta%20Cubillos&fontSize=36&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Cristian%20Camilo%20Acosta%20Cubillos&fontSize=52&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 </div>
 
