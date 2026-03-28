@@ -1,4 +1,21 @@
+<!-- HEADER ANIMADO -->
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Cristian%20Camilo%20Acosta%20Cubillos&fontSize=36&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+</div>
+
+<!-- INSIGNIAS HERO -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cristian--camilo--acosta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-camilo-acosta)
+[![Gmail](https://img.shields.io/badge/Gmail-camiloretro22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camiloretro22@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Bogotá-Colombia-FFCD00?style=for-the-badge)](https://maps.app.goo.gl/Bogota)
+[![Status](https://img.shields.io/badge/🔍_Open_to-Work-00D26A?style=for-the-badge)](mailto:camiloretro22@gmail.com)
+
+</div>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Cristian%20Camilo%20Acosta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Forensic%20Data%20Integrity%20Specialist&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
