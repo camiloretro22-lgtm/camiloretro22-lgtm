@@ -1,7 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Cristian%20Camilo%20Acosta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Forensic%20Data%20Integrity%20Specialist&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-
-</div>
-
 <img width="2048" height="512" alt="Gemini_Generated_Image_he8vv5he8vv5he8v" src="https://github.com/user-attachments/assets/25542bd2-0a36-4257-b10d-dc7ea2ae85f9" />
 
 ---
