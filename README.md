@@ -1,3 +1,22 @@
+<!-- HEADER ANIMADO -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Cristian%20Camilo%20Acosta%20Cubillos&fontSize=36&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
+
+</div>
+
+<!-- INSIGNIAS HERO -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cristian--camilo--acosta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristian-camilo-acosta)
+[![Gmail](https://img.shields.io/badge/Gmail-camiloretro22@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camiloretro22@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Bogotá-Colombia-FFCD00?style=for-the-badge)](https://maps.app.goo.gl/Bogota)
+[![Status](https://img.shields.io/badge/🔍_Open_to-Work-00D26A?style=for-the-badge)](mailto:camiloretro22@gmail.com)
+
+</div>
+
+<br/>
+
 <img width="2048" height="512" alt="Gemini_Generated_Image_he8vv5he8vv5he8v" src="https://github.com/user-attachments/assets/25542bd2-0a36-4257-b10d-dc7ea2ae85f9" />
 
 ---
