@@ -178,4 +178,76 @@ Consultas avanzadas con subconsultas, CTEs y análisis de cohortes sobre bases d
 ---
 
 
+## 🔬 Proyectos Destacados
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏠 Predicción de Precios de Vivienda
+> **Machine Learning & Regresión**
+
+Modelado predictivo para estimar valores inmobiliarios basados en características estructurales y ubicación. Optimización de métricas de error.
+
+**Stack:** `Python` `Scikit-Learn` `Pandas` `EDA`
+
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm/house-prices-predictions)
+
+</td>
+<td width="50%">
+
+### 🎵 Análisis de Datos Spotify
+> **Exploración de Tendencias Musicales**
+
+Análisis profundo de métricas de audio (danceability, energy) para identificar qué hace que una canción sea un éxito en la plataforma.
+
+**Stack:** `Python` `Matplotlib` `Seaborn` `Data Cleaning`
+
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm/spotify-data-analysis)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📈 Análisis de Ventas Globales
+> **Business Intelligence & Forecasting**
+
+Identificación de KPIs críticos y tendencias estacionales para mejorar la toma de decisiones en departamentos comerciales.
+
+**Stack:** `SQL` `Python` `Power BI` `Time Series`
+
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm/sales-data-analysis)
+
+</td>
+<td width="50%">
+
+### 🧪 Pruebas A/B & Estadística
+> **Validación de Hipótesis de Negocio**
+
+Determinación de significancia estadística para cambios en interfaces de usuario y su impacto directo en la tasa de conversión.
+
+**Stack:** `SciPy` `NumPy` `T-tests` `Estadística Inferencial`
+
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm)
+
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+
+### 🗄️ SQL para Análisis de Negocios
+> **Optimización de Consultas Complejas**
+
+Diseño de consultas avanzadas utilizando CTEs y Window Functions para generar reportes de retención y comportamiento de usuarios.
+
+**Stack:** `PostgreSQL` `JOINs` `Window Functions` `Subconsultas`
+
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm)
+
+</td>
+</tr>
+</table>
+
+
 
