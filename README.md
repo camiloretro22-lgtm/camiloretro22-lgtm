@@ -191,7 +191,7 @@ Sistema de alertas tempranas para identificar vehículos con comportamiento anó
 
 **Stack:** `Python` `Pandas` `Data Cleaning` `Jupyter`
 
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/cristian-camilo-acosta)
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm)
 
 </td>
 <td width="50%">
@@ -203,7 +203,7 @@ Identificación de patrones de fuga mensual y propuesta de estrategia basada en 
 
 **Stack:** `Python` `Pandas` `EDA` `SQL`
 
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/cristian-camilo-acosta)
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm)
 
 </td>
 </tr>
@@ -217,7 +217,7 @@ Análisis exploratorio de plataformas de anuncios para identificar los factores 
 
 **Stack:** `Python` `Pandas` `Matplotlib` `Histogramas`
 
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/cristian-camilo-acosta)
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm)
 
 </td>
 <td width="50%">
@@ -229,7 +229,7 @@ Validación estadística de qué plan genera más ingresos y si el comportamient
 
 **Stack:** `SciPy` `NumPy` `T-tests` `Estadística Descriptiva`
 
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/cristian-camilo-acosta)
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm)
 
 </td>
 </tr>
@@ -243,7 +243,7 @@ Consultas avanzadas con subconsultas, CTEs y análisis de cohortes sobre bases d
 
 **Stack:** `PostgreSQL` `JOINs` `CTEs` `Análisis de Cohortes` `Subconsultas`
 
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/cristian-camilo-acosta)
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm)
 
 </td>
 </tr>
