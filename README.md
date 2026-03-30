@@ -203,7 +203,7 @@ Identificación de patrones de fuga mensual y propuesta de estrategia basada en 
 
 **Stack:** `Python` `Pandas` `EDA` `SQL`
 
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm)
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm/proyecto-de-estrategia-de-retenci-n-de-clientes-para-model-fitness)
 
 </td>
 </tr>
