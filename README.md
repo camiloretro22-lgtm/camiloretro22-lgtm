@@ -179,49 +179,77 @@ Consultas avanzadas con subconsultas, CTEs y análisis de cohortes sobre bases d
 
 <!-- PROYECTOS DESTACADOS -->
 ## 🔬 Proyectos Destacados
+
 <table>
 <tr>
 <td width="50%">
+
 ### 🚗 Detección de Placas Sospechosas
 > **Alerta Temprana con Python**
+
 Sistema de alertas tempranas para identificar vehículos con comportamiento anómalo. Aplicación directa del pensamiento forense al análisis de datos.
+
 **Stack:** `Python` `Pandas` `Data Cleaning` `Jupyter`
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm)
+
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/cristian-camilo-acosta)
+
 </td>
 <td width="50%">
+
 ### 📉 Análisis de Retención de Usuarios
 > **Reducción de Churn del 15%**
+
 Identificación de patrones de fuga mensual y propuesta de estrategia basada en datos para retener clientes.
+
 **Stack:** `Python` `Pandas` `EDA` `SQL`
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm)
+
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/cristian-camilo-acosta)
+
 </td>
 </tr>
 <tr>
 <td width="50%">
+
 ### 📊 EDA — Precios de Vehículos
 > **Correlación Kilometraje vs. Valor**
+
 Análisis exploratorio de plataformas de anuncios para identificar los factores que determinan el precio de reventa de vehículos.
+
 **Stack:** `Python` `Pandas` `Matplotlib` `Histogramas`
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm)
+
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/cristian-camilo-acosta)
+
 </td>
 <td width="50%">
+
 ### 📡 Análisis Estadístico Telecomunicaciones
 > **Pruebas de Hipótesis — Plan Óptimo**
+
 Validación estadística de qué plan genera más ingresos y si el comportamiento de usuarios difiere por región.
+
 **Stack:** `SciPy` `NumPy` `T-tests` `Estadística Descriptiva`
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm)
+
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/cristian-camilo-acosta)
+
 </td>
 </tr>
 <tr>
 <td width="50%" colspan="2">
+
 ### 🗄️ SQL Business Analytics — Pedidos & Suscripciones
 > **Optimización de Queries en un 40%**
+
 Consultas avanzadas con subconsultas, CTEs y análisis de cohortes sobre bases de datos relacionales. Reportes automatizados de rendimiento.
+
 **Stack:** `PostgreSQL` `JOINs` `CTEs` `Análisis de Cohortes` `Subconsultas`
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm)
+
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/cristian-camilo-acosta)
+
 </td>
 </tr>
 </table>
+
+
 
 
 
