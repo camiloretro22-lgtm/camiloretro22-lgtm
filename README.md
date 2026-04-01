@@ -184,10 +184,10 @@ Consultas avanzadas con subconsultas, CTEs y análisis de cohortes sobre bases d
 <tr>
 <td width="50%">
 
-### 🚀 Mercado y análisis de ventas de Videojuegos
+### 🤖 Mercado y análisis de ventas de Videojuegos
 > **Alerta Temprana con Python**
 
-Proyecto de análisis y modelado de datos que explora la relación entre reseñas, plataformas y ventas globales de videojuegos. Incluye limpieza de datos, análisis exploratorio, correlaciones y pruebas de hipótesis para generar insights predictivos
+Análisis exploratorio y estadístico de videojuegos para detectar patrones de éxito y generar predicciones.
 
 **Stack:** `Python` `Pandas` `Data Cleaning` `Jupyter`
 
