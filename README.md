@@ -217,7 +217,7 @@ Análisis exploratorio para identificar los patrones de (llamadas, SMS y datos) 
 
 **Stack:** `Python` `Pandas` `Matplotlib` `Histogramas`
 
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm)
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm/proyecto-linea-telefonica)
 
 </td>
 <td width="50%">
