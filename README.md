@@ -229,7 +229,7 @@ Validación estadística de qué plan genera más ingresos y si el comportamient
 
 **Stack:** `SciPy` `NumPy` `T-tests` `Estadística Descriptiva`
 
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm)
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm/Proyecto-de-Operadores-Ineficaces-mediante-Pruebas-Estad-sticas)
 
 </td>
 </tr>
