@@ -184,10 +184,10 @@ Consultas avanzadas con subconsultas, CTEs y análisis de cohortes sobre bases d
 <tr>
 <td width="50%">
 
-### 🚗 Detección de Placas Sospechosas
+### 🚀 Mercado y análisis de ventas de Videojuegos
 > **Alerta Temprana con Python**
 
-Sistema de alertas tempranas para identificar vehículos con comportamiento anómalo. Aplicación directa del pensamiento forense al análisis de datos.
+Proyecto de análisis y modelado de datos que explora la relación entre reseñas, plataformas y ventas globales de videojuegos. Incluye limpieza de datos, análisis exploratorio, correlaciones y pruebas de hipótesis para generar insights predictivos
 
 **Stack:** `Python` `Pandas` `Data Cleaning` `Jupyter`
 
