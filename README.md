@@ -213,7 +213,7 @@ Identificación de patrones de fuga mensual y propuesta de estrategia basada en 
 ### 📊 EDA — Tarifas de Telecomunicaciones
 > **Comparación de Ingresos: Surf vs Ultimate**
 
-Análisis exploratorio de datos de clientes para identificar los patrones de consumo (llamadas, SMS y datos) y determinar qué plan de prepago genera mayores ingresos.
+Análisis exploratorio de datos para identificar los patrones de consumo (llamadas, SMS y datos) y determinar el plan de prepago genera mayores ingresos.
 
 **Stack:** `Python` `Pandas` `Matplotlib` `Histogramas`
 
