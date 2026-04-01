@@ -97,14 +97,14 @@ Creo firmemente en el aprendizaje continuo, la colaboración y el poder de los d
 <tr>
 <td width="50%">
 
-### 🚗 Detección de Placas Sospechosas
+### 🤖 Mercado y análisis de ventas de Videojuegos
 > **Alerta Temprana con Python**
 
-Sistema de alertas tempranas para identificar vehículos con comportamiento anómalo. Aplicación directa del pensamiento forense al análisis de datos.
+Análisis exploratorio y estadístico de videojuegos para detectar patrones de éxito y generar predicciones.
 
 **Stack:** `Python` `Pandas` `Data Cleaning` `Jupyter`
 
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/cristian-camilo-acosta)
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm/proyecto-tiendas-online-de-venta-de-videojuegos)
 
 </td>
 <td width="50%">
@@ -116,21 +116,21 @@ Identificación de patrones de fuga mensual y propuesta de estrategia basada en 
 
 **Stack:** `Python` `Pandas` `EDA` `SQL`
 
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/cristian-camilo-acosta)
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm/proyecto-de-estrategia-de-retenci-n-de-clientes-para-model-fitness)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📊 EDA — Precios de Vehículos
-> **Correlación Kilometraje vs. Valor**
+### 📊 EDA — Tarifas de Telecomunicaciones
+> **Comparación de Ingresos: Surf vs Ultimate**
 
-Análisis exploratorio de plataformas de anuncios para identificar los factores que determinan el precio de reventa de vehículos.
+Análisis exploratorio para identificar los patrones de (llamadas, SMS y datos) y determinar el plan que genera mayores ingresos.
 
 **Stack:** `Python` `Pandas` `Matplotlib` `Histogramas`
 
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/cristian-camilo-acosta)
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm/proyecto-linea-telefonica)
 
 </td>
 <td width="50%">
@@ -142,7 +142,7 @@ Validación estadística de qué plan genera más ingresos y si el comportamient
 
 **Stack:** `SciPy` `NumPy` `T-tests` `Estadística Descriptiva`
 
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/cristian-camilo-acosta)
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm/Proyecto-de-Operadores-Ineficaces-mediante-Pruebas-Estad-sticas)
 
 </td>
 </tr>
@@ -156,7 +156,7 @@ Consultas avanzadas con subconsultas, CTEs y análisis de cohortes sobre bases d
 
 **Stack:** `PostgreSQL` `JOINs` `CTEs` `Análisis de Cohortes` `Subconsultas`
 
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/cristian-camilo-acosta)
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm/Proyecto-deAn-lisis-Estrat-gico-del-Mercado-Editorial-SQL)
 
 </td>
 </tr>
