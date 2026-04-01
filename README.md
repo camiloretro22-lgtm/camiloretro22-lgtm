@@ -210,10 +210,10 @@ Identificación de patrones de fuga mensual y propuesta de estrategia basada en 
 <tr>
 <td width="50%">
 
-### 📊 EDA — Precios de Vehículos
-> **Correlación Kilometraje vs. Valor**
+### 📊 EDA — Tarifas de Telecomunicaciones
+> **Comparación de Ingresos: Surf vs Ultimate**
 
-Análisis exploratorio de plataformas de anuncios para identificar los factores que determinan el precio de reventa de vehículos.
+Análisis exploratorio de datos de clientes para identificar los patrones de consumo (llamadas, SMS y datos) y determinar qué plan de prepago genera mayores ingresos.
 
 **Stack:** `Python` `Pandas` `Matplotlib` `Histogramas`
 
