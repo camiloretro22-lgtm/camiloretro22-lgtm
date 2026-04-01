@@ -243,7 +243,7 @@ Consultas avanzadas con subconsultas, CTEs y análisis de cohortes sobre bases d
 
 **Stack:** `PostgreSQL` `JOINs` `CTEs` `Análisis de Cohortes` `Subconsultas`
 
-[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm)
+[![Ver proyecto](https://img.shields.io/badge/Ver_Proyecto-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm/Proyecto-deAn-lisis-Estrat-gico-del-Mercado-Editorial-SQL)
 
 </td>
 </tr>
