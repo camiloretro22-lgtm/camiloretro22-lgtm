@@ -9,7 +9,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cristian--camilo--acosta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-camilo-acosta-/)
-[![Hotmail](https://img.shields.io/badge/Gmail-camilo.acosta.c@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camiloretro22@gmail.com)
+[![Hotmail](https://img.shields.io/badge/Hotmail-camilo.acosta.c@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilo.acosta.c@hotmail.com)
 [![Location](https://img.shields.io/badge/📍_Bogotá-Colombia-FFCD00?style=for-the-badge)](https://maps.app.goo.gl/Bogota)
 [![Status](https://img.shields.io/badge/🔍_Open_to-Work-00D26A?style=for-the-badge)](mailto:camiloretro22@gmail.com)
 
