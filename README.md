@@ -18,7 +18,6 @@
 <br/>
 
 <img width="2048" height="512" alt="Gemini_Generated_Image_qh4ex8qh4ex8qh4e" src="https://github.com/user-attachments/assets/d42cebe9-ec2d-4336-90a2-b4c63c5c0041" />
-" src="https://github.com/user-attachments/assets/25542bd2-0a36-4257-b10d-dc7ea2ae85f9" />
 
 ---
 
