@@ -179,6 +179,7 @@ Consultas avanzadas con subconsultas, CTEs y análisis de cohortes sobre bases d
 
 <img width="2048" height="512" alt="Gemini_Generated_Image_qh4ex8qh4ex8qh4e" src="https://github.com/user-attachments/assets/d42cebe9-ec2d-4336-90a2-b4c63c5c0041" />
 
+<img width="1440" height="2752" alt="image" src="https://github.com/user-attachments/assets/0f2f98eb-ba98-4fdb-9fdc-6ff45c1c2ae1" />
 
 
 
