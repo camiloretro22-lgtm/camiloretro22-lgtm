@@ -17,7 +17,7 @@
 
 <br/>
 
-<img width="2048" height="512" alt="Gemini_Generated_Image_rnqy44rnqy44rnqy" src="https://github.com/user-attachments/assets/1bdf4fab-0769-4710-aa58-a26f517c875e" />
+<img width="1376" height="768" alt="Gemini_Generated_Image_rnqy44rnqy44rnqy" src="https://github.com/user-attachments/assets/1b0e2f7f-cf7f-400f-a555-5819f8c4bdea" />
 
 ---
 
