@@ -188,3 +188,206 @@ Las bases de datos relacionales acumulan información valiosa, pero sin las cons
 ---
 
 <img width="2048" height="512" alt="Gemini_Generated_Image_qh4ex8qh4ex8qh4e" src="https://github.com/user-attachments/assets/d42cebe9-ec2d-4336-90a2-b4c63c5c0041" />
+
+
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║          CRISTIAN CAMILO ACOSTA CUBILLOS — DATA ANALYST          ║
+║      [ Bogotá, Colombia  ·  Open to Remote & Hybrid Roles ]      ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-camilo-acosta-/)
+[![Email](https://img.shields.io/badge/Email-Escríbeme-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:camilo.acosta.c@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-camiloretro22--lgtm-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/camiloretro22-lgtm)
+![Visitors](https://komarev.com/ghpvc/?username=camiloretro22-lgtm&style=flat-square&color=1D9E75&label=Visitas)
+
+</div>
+
+---
+
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=camiloretro22-lgtm&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75&text_color=c9d1d9&count_private=true" />
+
+### `$ whoami`
+
+```python
+analyst = {
+    "nombre"    : "Cristian Camilo Acosta Cubillos",
+    "rol"       : "Data Analyst",
+    "background": "Investigación Judicial & Forense",
+    "ubicacion" : "Bogotá, Colombia 🇨🇴",
+    "superpoder": "Detecto anomalías donde otros ven ruido",
+    "open_to"   : ["Remote", "Híbrido", "Data / BI roles"]
+}
+```
+
+> *"Antes analizaba escenas del crimen. Ahora analizo datos.*
+> *El rigor es el mismo — las decisiones, más rápidas."*
+
+<br clear="right"/>
+
+---
+
+## `$ cat perfil.txt`
+
+Soy **Data Analyst** con formación en **Investigación Judicial y Ciencias Forenses**. Aplico el mismo rigor científico que usé para garantizar cadena de custodia de evidencia — ahora en pipelines de datos: trazabilidad absoluta, cero tolerancia al error, y hallazgos que resisten cualquier escrutinio.
+
+Mi enfoque convierte la complejidad técnica en decisiones accionables.
+
+---
+
+## `$ ls -la habilidades/`
+
+<div align="center">
+
+### 🧠 Análisis & Estadística
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Statistics](https://img.shields.io/badge/Estadística_Inferencial-1D9E75?style=for-the-badge&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA_&_Limpieza-0F6E56?style=for-the-badge&logoColor=white)
+
+### 📦 Librerías
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+### 📊 BI & Visualización
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Dash](https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel_Avanzado-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+### ⚙️ Dev & Flujo de trabajo
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</div>
+
+---
+
+## `$ cat impacto_real.log`
+
+```
+[RV Inmobiliaria | Analista de Datos de Cartera | Ene 2025 – Mar 2026]
+
+✅ +25%  eficiencia en priorización de recuperación de cartera
+✅ -12%  índice de morosidad (análisis de tendencias de pago)
+✅ -30%  errores de registro en conciliaciones bancarias
+✅ +18%  tasa de contacto efectivo en gestión de cobranza
+
+Stack: Excel Avanzado · SQL · Segmentación · KPIs · ETL
+```
+
+---
+
+## `$ ls proyectos/ --details`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 Video Game Market Intelligence
+**`Python · Pandas · Matplotlib · EDA`**
+
+Predice éxito comercial de videojuegos por región (NA, EU, JP) correlacionando crítica especializada con ventas.
+
+- Ciclo de vida óptimo por plataforma detectado
+- Patrones de consumo visualizados por mercado
+- Timing de lanzamiento pre-saturación identificado
+
+[![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm/proyecto-tiendas-online-de-venta-de-videojuegos)
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 Telecom Operator Audit
+**`Python · SciPy · NumPy · T-Tests`**
+
+Identifica operadores con fallas sistemáticas usando pruebas de hipótesis — base científica para decisiones de RRHH.
+
+- Variación aleatoria vs fallos reales: distinguidos
+- Anomalías operativas validadas estadísticamente
+- Recomendaciones accionables generadas
+
+[![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm/Proyecto-de-Operadores-Ineficaces-mediantePruebas-Estad-sticas)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📚 Editorial Market Strategic Intelligence
+**`SQL · PostgreSQL · Cohort Analysis · KPIs`**
+
+Inteligencia de mercado editorial: segmentación de nichos, análisis de cohortes de lectores y KPIs estratégicos para decisiones ejecutivas.
+
+- Modelo de segmentación con nichos de mayor retorno identificados
+- Comportamiento de compra a largo plazo mapeado
+- Reportes analíticos listos para decisión ejecutiva
+
+[![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=flat-square&logo=github)](https://github.com/camiloretro22-lgtm/Proyecto-deAn-lisis-Estrat-gico-del-MercadoEditorial-SQL)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ cat stats.md`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=camiloretro22-lgtm&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75&text_color=c9d1d9&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiloretro22-lgtm&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=1D9E75&text_color=c9d1d9" />
+
+</div>
+
+---
+
+## `$ cat formacion.txt`
+
+```
+[2025–2026]  Data Analyst Certificate      → TripleTen Latam
+[2026]       Bootcamp de Programación      → Talento Tech · UT Innova Digital
+[2019–2022]  Profesional en Investigación  → Instituto Nacional de Investigación
+             Judicial                        Criminalística y Ciencias Forenses
+[2021]       Diplomado en Dactiloscopía    → Instituto Nacional de Investigación
+                                             Criminalística y Ciencias Forenses
+```
+
+---
+
+## `$ ./contacto.sh`
+
+<div align="center">
+
+**¿Buscas un analista que trate los datos con rigor forense?**
+
+[![LinkedIn](https://img.shields.io/badge/Hablemos_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-camilo-acosta-/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Envíame_un_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilo.acosta.c@hotmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+Los datos no mienten — pero sí se ocultan.
+Mi trabajo es encontrarlos.
+```
+
+</div>
